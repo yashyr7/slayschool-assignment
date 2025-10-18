@@ -1,4 +1,4 @@
-# slayschool_assesment
+# Homework Solver
 
 A new Flutter project.
 
